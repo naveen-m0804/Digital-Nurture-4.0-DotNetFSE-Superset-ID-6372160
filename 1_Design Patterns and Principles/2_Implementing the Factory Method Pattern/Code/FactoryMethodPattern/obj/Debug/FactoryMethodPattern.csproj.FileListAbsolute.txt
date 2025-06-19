@@ -1,0 +1,7 @@
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\2_Implementing the Factory Method Pattern\Code\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\2_Implementing the Factory Method Pattern\Code\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\2_Implementing the Factory Method Pattern\Code\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\2_Implementing the Factory Method Pattern\Code\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.AssemblyReference.cache
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\2_Implementing the Factory Method Pattern\Code\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\2_Implementing the Factory Method Pattern\Code\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\2_Implementing the Factory Method Pattern\Code\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb

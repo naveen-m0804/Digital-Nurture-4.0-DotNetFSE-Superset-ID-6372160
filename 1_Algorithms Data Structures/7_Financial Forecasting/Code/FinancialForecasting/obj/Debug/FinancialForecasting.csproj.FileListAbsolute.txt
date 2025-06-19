@@ -1,0 +1,8 @@
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\7_Financial Forecasting\Code\FinancialForecasting\bin\Debug\FinancialForecasting.exe.config
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\7_Financial Forecasting\Code\FinancialForecasting\bin\Debug\FinancialForecasting.exe
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\7_Financial Forecasting\Code\FinancialForecasting\bin\Debug\FinancialForecasting.pdb
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\7_Financial Forecasting\Code\FinancialForecasting\obj\Debug\FinancialForecasting.csproj.AssemblyReference.cache
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\7_Financial Forecasting\Code\FinancialForecasting\obj\Debug\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\7_Financial Forecasting\Code\FinancialForecasting\obj\Debug\FinancialForecasting.exe
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\7_Financial Forecasting\Code\FinancialForecasting\obj\Debug\FinancialForecasting.pdb
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\7_Financial Forecasting\Code\FinancialForecasting\obj\Debug\FinancialForecasting.exe.config

@@ -1,0 +1,7 @@
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\2_E-commerce Platform Search Function\Code\EcommercePlatformSearchFunction\bin\Debug\EcommercePlatformSearchFunction.exe.config
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\2_E-commerce Platform Search Function\Code\EcommercePlatformSearchFunction\bin\Debug\EcommercePlatformSearchFunction.exe
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\2_E-commerce Platform Search Function\Code\EcommercePlatformSearchFunction\bin\Debug\EcommercePlatformSearchFunction.pdb
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\2_E-commerce Platform Search Function\Code\EcommercePlatformSearchFunction\obj\Debug\EcommercePlatformSearchFunction.csproj.AssemblyReference.cache
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\2_E-commerce Platform Search Function\Code\EcommercePlatformSearchFunction\obj\Debug\EcommercePlatformSearchFunction.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\2_E-commerce Platform Search Function\Code\EcommercePlatformSearchFunction\obj\Debug\EcommercePlatformSearchFunction.exe
+C:\Users\SEC\Desktop\DotNet FSE\1_Algorithms Data Structures\2_E-commerce Platform Search Function\Code\EcommercePlatformSearchFunction\obj\Debug\EcommercePlatformSearchFunction.pdb

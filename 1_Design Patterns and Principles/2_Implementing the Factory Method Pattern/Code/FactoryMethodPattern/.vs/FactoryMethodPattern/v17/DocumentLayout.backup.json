@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_design patterns and principles\\2_implementing the factory method pattern\\code\\factorymethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_design patterns and principles\\2_implementing the factory method pattern\\code\\factorymethodpattern\\worddocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|solutionrelative:worddocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_design patterns and principles\\2_implementing the factory method pattern\\code\\factorymethodpattern\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|solutionrelative:worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_design patterns and principles\\2_implementing the factory method pattern\\code\\factorymethodpattern\\pdfdocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|solutionrelative:pdfdocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_design patterns and principles\\2_implementing the factory method pattern\\code\\factorymethodpattern\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|solutionrelative:pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_design patterns and principles\\2_implementing the factory method pattern\\code\\factorymethodpattern\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|solutionrelative:idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_design patterns and principles\\2_implementing the factory method pattern\\code\\factorymethodpattern\\exceldocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|solutionrelative:exceldocumentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_design patterns and principles\\2_implementing the factory method pattern\\code\\factorymethodpattern\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|solutionrelative:exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_design patterns and principles\\2_implementing the factory method pattern\\code\\factorymethodpattern\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5116D42-2B7A-42B3-AB2C-BC4181C7E66C}|FactoryMethodPattern.csproj|solutionrelative:documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\ExcelDocumentFactory.cs",
+              "RelativeDocumentMoniker": "ExcelDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\ExcelDocumentFactory.cs",
+              "RelativeToolTip": "ExcelDocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:17:14.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PdfDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\PdfDocumentFactory.cs",
+              "RelativeDocumentMoniker": "PdfDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\PdfDocumentFactory.cs",
+              "RelativeToolTip": "PdfDocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:17:04.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordDocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\WordDocumentFactory.cs",
+              "RelativeDocumentMoniker": "WordDocumentFactory.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\WordDocumentFactory.cs",
+              "RelativeToolTip": "WordDocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:16:57.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "DocumentFactory.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\DocumentFactory.cs",
+              "RelativeToolTip": "DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:16:46.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExcelDocument.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\ExcelDocument.cs",
+              "RelativeDocumentMoniker": "ExcelDocument.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\ExcelDocument.cs",
+              "RelativeToolTip": "ExcelDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:16:36.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "PdfDocument.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\PdfDocument.cs",
+              "RelativeToolTip": "PdfDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:16:24.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordDocument.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\WordDocument.cs",
+              "RelativeDocumentMoniker": "WordDocument.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\WordDocument.cs",
+              "RelativeToolTip": "WordDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:16:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\IDocument.cs",
+              "RelativeDocumentMoniker": "IDocument.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\IDocument.cs",
+              "RelativeToolTip": "IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:15:34.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Design Patterns and Principles\\2_Implementing the Factory Method Pattern\\Code\\FactoryMethodPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:54:35.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

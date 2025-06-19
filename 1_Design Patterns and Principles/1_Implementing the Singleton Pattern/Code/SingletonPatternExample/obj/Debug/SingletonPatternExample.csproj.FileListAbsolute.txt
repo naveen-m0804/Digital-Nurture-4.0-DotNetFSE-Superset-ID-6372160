@@ -1,0 +1,7 @@
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\1_Implementing the Singleton Pattern\Code\SingletonPatternExample\bin\Debug\SingletonPatternExample.exe.config
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\1_Implementing the Singleton Pattern\Code\SingletonPatternExample\bin\Debug\SingletonPatternExample.exe
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\1_Implementing the Singleton Pattern\Code\SingletonPatternExample\bin\Debug\SingletonPatternExample.pdb
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\1_Implementing the Singleton Pattern\Code\SingletonPatternExample\obj\Debug\SingletonPatternExample.csproj.AssemblyReference.cache
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\1_Implementing the Singleton Pattern\Code\SingletonPatternExample\obj\Debug\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\1_Implementing the Singleton Pattern\Code\SingletonPatternExample\obj\Debug\SingletonPatternExample.exe
+C:\Users\SEC\Desktop\DotNet FSE\1_Design Patterns and Principles\1_Implementing the Singleton Pattern\Code\SingletonPatternExample\obj\Debug\SingletonPatternExample.pdb

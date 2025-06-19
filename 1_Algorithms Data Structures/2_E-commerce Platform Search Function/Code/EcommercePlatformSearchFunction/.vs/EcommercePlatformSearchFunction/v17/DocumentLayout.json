@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Algorithms Data Structures\\2_E-commerce Platform Search Function\\Code\\EcommercePlatformSearchFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE82CA3-660D-4920-9259-EBE6776D4571}|EcommercePlatformSearchFunction.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_algorithms data structures\\2_e-commerce platform search function\\code\\ecommerceplatformsearchfunction\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE82CA3-660D-4920-9259-EBE6776D4571}|EcommercePlatformSearchFunction.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE82CA3-660D-4920-9259-EBE6776D4571}|EcommercePlatformSearchFunction.csproj|c:\\users\\sec\\desktop\\dotnet fse\\1_algorithms data structures\\2_e-commerce platform search function\\code\\ecommerceplatformsearchfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AE82CA3-660D-4920-9259-EBE6776D4571}|EcommercePlatformSearchFunction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Algorithms Data Structures\\2_E-commerce Platform Search Function\\Code\\EcommercePlatformSearchFunction\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Algorithms Data Structures\\2_E-commerce Platform Search Function\\Code\\EcommercePlatformSearchFunction\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:47:24.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Algorithms Data Structures\\2_E-commerce Platform Search Function\\Code\\EcommercePlatformSearchFunction\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SEC\\Desktop\\DotNet FSE\\1_Algorithms Data Structures\\2_E-commerce Platform Search Function\\Code\\EcommercePlatformSearchFunction\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:44:47.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
