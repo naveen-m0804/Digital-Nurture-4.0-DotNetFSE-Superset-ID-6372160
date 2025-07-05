@@ -71,7 +71,6 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 ```
 
 You are now ready to start building your inventory system using EF Core!
-```
 
 
 
