@@ -137,10 +137,8 @@ The program is an **8-week deep skilling track** focused on DotNet Full Stack te
 - [SQL Server Management Studio](https://learn.microsoft.com/en-us/ssms/install/install)
 - [VS Code](https://code.visualstudio.com/download)
 
----
+```
 
-
----
 
 ## 📣 Credits
 
@@ -148,5 +146,5 @@ This learning path and materials were provided by **Cognizant** under the **Digi
 
 > _“Skilling isn’t a destination, it’s a continuous journey. Keep coding, keep growing!”_ ✨
 
----
+```
 
