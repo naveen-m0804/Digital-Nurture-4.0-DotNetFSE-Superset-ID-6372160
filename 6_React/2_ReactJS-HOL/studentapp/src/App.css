@@ -1,0 +1,15 @@
+.App {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f4f8;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+  text-align: center;
+}
+
+.App h1 {
+  margin-bottom: 40px;
+  color: #333;
+}
